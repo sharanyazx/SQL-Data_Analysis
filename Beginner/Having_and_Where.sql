@@ -10,7 +10,7 @@ GROUP BY gender
 ;
 
 
--- let's try to filter on the avg age using where
+-- try to filter on the avg age using where
 
 SELECT gender, AVG(age)
 FROM employee_demographics
