@@ -1,8 +1,3 @@
-Got it — you want **all normal forms** explained with the same kind of **kid-friendly analogy** as the BCNF one you liked.
-
-Here’s the complete list with analogies:
-
----
 
 ### **1NF (First Normal Form)**
 
@@ -57,6 +52,3 @@ If in a table `(Teacher, Subject, Classroom)`,
 * But a subject can be taught by multiple teachers
   That means “Teacher → Subject” is a dependency, and `Teacher` should be the key for its own table.
 
----
-
-If you want, I can also **make a one-page “Normal Forms for Kids” cheat sheet** with diagrams so you can remember them in seconds during interviews. Would you like me to make that for you?
